@@ -1,1 +1,6 @@
 Q. What's one time you worked with a difficult customer and how did you handle the situation
+
+Situation: I was assigned into a project just after joining Infosys which involved the development  of a government of India web portal along with integration of legacy data which they stored in Oracle. The tech stack we were using was DB2. The customer was a very eager one and also they had influence on the awarding of other future projects as well. I was leading a team of 2 developers to develop one of the components
+Task: Due to some kind of miscalculation on the part of the sales team, the timeline for completion of the project was decided to be 6  months. After technical  analysis, the dev team rea;ized that even with very strict timelines the release would at least take 1 year. This also involved the modules I was working on. Customer was informed about it, the customer was very unhappy of the situation.
+Action: For the module I was working on, I broke down the timelines to a more detailed form. As every major milestone was reached, the customer was provided a walkthrough so that they could see the progress of the module
+Result: Though the project could not be completed as per the timeline, due to constant communication, the customer had a good feedback when the final deliverable was completed.
