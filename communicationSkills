@@ -1,2 +1,11 @@
 Q. If you are presenting your ideas during a meeting and your audience seems disengaged, what would you do to get their attention? or Talk about a time when you made a good presentation, what went well? 
 Q. Talk about a time when you had communication challenges with peer team member? How did you communicate with them and successfully completed the project
+
+Situation: When I was employed in Infosys, one of my responsibilities were to  enable undergraduates joining our project to equip them enough to be able to perform productive work. I had been assigned 2 resources fresh out of training, being a big company sometimes the training given to the resources is not what they are assigned to work on. For example these 2 developers were trained on Java however were expected to write highly optimized SQL code and procedures which would then be scheduled as is or utilized by front end.
+
+Task: I was supposed to make the resources project ready in 2 weeks. This would involve getting them to grasp the intricacies of performance tuning . This begins from first of all identifying if a code written is performing badly or not. If the data is small then every select runs fast so there is a need to perform stress testing as well. I trained them on these concepts in course for a week.
+
+Action: I set up 2 databases for them before the first session, one with less data and one with substantial amount of data, in the beginning of every session, I would give them something to solve, something related to session, this would help to set the expectations of what was expected. 
+Things which worked perfectly in the small databases sometimes didnt work so great with the huge data containing database. I tried to keep the expkanations short and give them some hands on every half an hour or so, this keptt them awake and interested even in the most morbid of tthe topics. I setup a process where the top performers would get to be transitioned to the projects faster, this is a great incentive for new resources. 
+
+Result: I was able to get them to grasp the cpncepts more easily and with lesser distraction and with better participation. It also built a bond between myself and the resources as they knew that they could approach me for issues wuthout being embarrassed about being worng about them.
